@@ -1,8 +1,8 @@
 {
-  "name": "lab9",
+  "name": "lab9_caleb_fidler",
   "version": "1.0.0",
-  "description": "submission for INF 286 lab9",
-  "main": "index.js",
+  "description": "Submission for INF 286 Lab9",
+  "main": "project.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/fidlerc1/npm.git"
   },
-  "keywords": [
-    "lab9"
-  ],
   "author": "Caleb Fidler",
   "license": "ISC",
   "bugs": {
